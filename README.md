@@ -2,6 +2,8 @@
 
 ## A clean, beautiful and responsive portfolio template for Developers
 
+I want to update the readme
+
 <h2 align="center">
   <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Gatsby Simplefolio" width="600px" />
   <br>
@@ -110,9 +112,9 @@ Go to `/src/mock/data.js` and fill your information, they are 5 objects:
 
 ```javascript
 export const heroData = {
-  title: '', // Hello, my name is
-  name: '', // John
-  subtitle: '', // I'm the Unknown Developer.
+  title: '',
+  name: '',
+  subtitle: '',
   cta: '', // Know more
 };
 ```
@@ -123,7 +125,7 @@ export const heroData = {
 
 ```javascript
 export const aboutData = {
-  img: 'profile.jpg', // put your profile image (recommended aspect radio: square)
+  img: 'profile.jpg',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
@@ -165,8 +167,8 @@ export const projectsData = [
 
 ```javascript
 export const contactData = {
-  cta: '', // call to action text for the contact section
-  btn: '', // text inside the button
+  cta: '',
+  btn: '',
   email: '',
 };
 ```
@@ -182,22 +184,22 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '', // your twitter url
+      url: '',
     },
     {
       id: nanoid(),
       name: 'codepen',
-      url: '', // your codepen url
+      url: '',
     },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '', // your linkedin url
+      url: '',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '', // your github url
+      url: '',
     },
   ],
 };
