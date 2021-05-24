@@ -33,8 +33,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'Internship At Startup Keypup .',
-    info:
-      'This internship took place in La Rochelle from 04 January to 16 April 2021. I was responsible of developing a VSCode extension to extend the Keypup platform possibility.',
+    info: 'This internship took place in La Rochelle from 04 January to 16 April 2021. I was responsible of developing a VSCode extension to extend the Keypup platform possibility.',
     info2: '',
     url: 'https://www.keypup.io/',
     repo: '', // if no repo, the button will not show up
