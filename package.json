@@ -62,11 +62,6 @@
   "bugs": {
     "url": "https://github.com/LilTits/portfolio/issues/"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
   "lint-staged": {
     "*.+(js|jsx)": [
       "eslint --fix"
