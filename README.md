@@ -2,8 +2,6 @@
 
 ## A clean, beautiful and responsive portfolio template for Developers
 
-I want to update the readme
-
 <h2 align="center">
   <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Gatsby Simplefolio" width="600px" />
   <br>
