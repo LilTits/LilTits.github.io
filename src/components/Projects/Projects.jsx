@@ -103,7 +103,7 @@ const Projects = () => {
                         >
                           <div data-tilt className="thumbnail rounded">
                             <StaticImage
-                              src="../../images/project.jpg"
+                              src="../../images/project.png"
                               alt="A project"
                             />
                           </div>
